@@ -32,7 +32,9 @@ gpa:         3.71 / 4.0
 motto:       "Architecting data systems and integrating AI to solve real problems."
 ```
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
 <td align="center"><b>3.71</b><br><sub>GPA / 4.0</sub></td>
 <td align="center"><b>14</b><br><sub>Projects</sub></td>
@@ -41,6 +43,8 @@ motto:       "Architecting data systems and integrating AI to solve real problem
 <td align="center"><b>2</b><br><sub>Conference / Journal</sub></td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
@@ -143,6 +147,8 @@ Full case studies with architecture diagrams and results live on **[tdpportfolio
 
 ### `>_ tech --stack`
 
+<div align="center">
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -183,8 +189,6 @@ Full case studies with architecture diagrams and results live on **[tdpportfolio
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=white)
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/divider.svg" width="100%" alt="">
 
