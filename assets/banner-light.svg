@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tran Duc Phat - Applied AI, Data Engineering, AIOps">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#16A34A"/>
+      <stop offset="55%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="112%" r="62%">
+      <stop offset="0%" stop-color="#16A34A" stop-opacity="0.20"/>
+      <stop offset="60%" stop-color="#06B6D4" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#16A34A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#16A34A" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="gridmask">
+      <rect width="1200" height="300" fill="url(#fade)"/>
+    </mask>
+  </defs>
+
+  <rect width="1200" height="300" fill="#FAFAF8"/>
+  <rect width="1200" height="300" fill="url(#grid)" mask="url(#gridmask)"/>
+  <ellipse cx="600" cy="300" rx="640" ry="205" fill="url(#glow)"/>
+
+  <path d="M42 42h36M42 42v36" fill="none" stroke="#16A34A" stroke-opacity="0.5" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1158 258h-36M1158 258v-36" fill="none" stroke="#16A34A" stroke-opacity="0.5" stroke-width="2" stroke-linecap="round"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="600" y="88" text-anchor="middle" font-size="16" font-weight="600" letter-spacing="4.5" fill="#16A34A">&gt;_ tahpnart8 --whoami</text>
+    <text x="600" y="166" text-anchor="middle" font-size="60" font-weight="700" letter-spacing="6" fill="#0A0A0B">TRAN DUC PHAT</text>
+    <text x="600" y="208" text-anchor="middle" font-size="18" letter-spacing="2.5" fill="#52525B">Applied AI &#183; Data Engineering &#183; AIOps</text>
+
+    <g>
+      <rect x="450" y="234" width="300" height="34" rx="17" fill="#16A34A" fill-opacity="0.08" stroke="#16A34A" stroke-opacity="0.3"/>
+      <circle cx="477" cy="251" r="4.5" fill="#16A34A">
+        <animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="493" y="256" font-size="13" font-weight="600" letter-spacing="0.5" fill="#15803D">Open to Applied AI Internship</text>
+    </g>
+  </g>
+
+  <rect x="0" y="295" width="1200" height="5" fill="url(#accent)"/>
+</svg>
