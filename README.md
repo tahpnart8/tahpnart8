@@ -13,9 +13,9 @@
 [![Email](https://img.shields.io/badge/Email-say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tranducphat1836@gmail.com)
 ![Location](https://img.shields.io/badge/Ho_Chi_Minh_City-Vietnam-52525B?style=flat-square&logo=googlemaps&logoColor=white)
 
-</div>
+<img src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/divider.svg" width="100%" alt="">
 
----
+</div>
 
 ### `>_ whoami`
 
@@ -42,7 +42,17 @@ motto:       "Architecting data systems and integrating AI to solve real problem
 </tr>
 </table>
 
----
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahpnart8/tahpnart8/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahpnart8/tahpnart8/output/github-snake.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/output/github-snake.svg" width="100%">
+</picture>
+
+<img src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/divider.svg" width="100%" alt="">
+
+</div>
 
 ### `>_ cat focus.md`
 
@@ -78,7 +88,17 @@ Multi-tier systems, high-performance backends, and databases tuned down to the i
 </tr>
 </table>
 
----
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/pipeline-light.svg">
+  <img alt="How I build: sources to stream to service to vector store to model to product, running on Kubernetes" src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/pipeline-light.svg" width="100%">
+</picture>
+
+<img src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/divider.svg" width="100%" alt="">
+
+</div>
 
 ### `>_ ls -la ~/featured`
 
@@ -107,7 +127,19 @@ Full case studies with architecture diagrams and results live on **[tdpportfolio
 
 </details>
 
----
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/divider.svg" width="100%" alt="">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/timeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/timeline-light.svg">
+  <img alt="Timeline from enrolling at UEH in 2024 to graduation in 2028, with research award and conference milestones" src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/timeline-light.svg" width="100%">
+</picture>
+
+<img src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/divider.svg" width="100%" alt="">
+
+</div>
 
 ### `>_ tech --stack`
 
@@ -152,36 +184,11 @@ Full case studies with architecture diagrams and results live on **[tdpportfolio
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=white)
 
----
-
-### `>_ git log --stat`
-
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tahpnart8&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&bg_color=00000000&icon_color=16A34A&text_color=808080&ring_color=16A34A" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahpnart8&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=16A34A&text_color=808080" />
-
-<br>
-
-<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=tahpnart8&hide_border=true&background=00000000&stroke=808080&ring=16A34A&fire=16A34A&currStreakLabel=16A34A&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080" height="165" />
+<img src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/divider.svg" width="100%" alt="">
 
 </div>
-
----
-
-### `>_ ./snake --eat-contributions`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahpnart8/tahpnart8/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahpnart8/tahpnart8/output/github-snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/output/github-snake.svg">
-</picture>
-
-</div>
-
----
 
 <details>
 <summary><code>>_ cat education.txt</code></summary>
@@ -229,9 +236,9 @@ Verifiable copies: **[tdpportfolio.vercel.app/#certificates](https://tdpportfoli
 
 </details>
 
----
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/divider.svg" width="100%" alt="">
 
 ### `>_ contact --now`
 
@@ -241,6 +248,6 @@ Always happy to talk about data systems, LLM workflows, or a project you have in
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tdp183/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tranducphat1836@gmail.com)
 
-<sub><code>>_</code> Thanks for scrolling this far.</sub>
+<sub><code>>_</code> Every graphic on this page is hand-written SVG in <a href="assets/">assets/</a>, generated by <a href="tools/build-assets.mjs">tools/build-assets.mjs</a> — no third-party widget services.</sub>
 
 </div>
