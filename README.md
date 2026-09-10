@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Tran Duc Phat — Applied AI, Data Engineering, AIOps" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/banner-light.svg">
+  <img alt="Tran Duc Phat — Applied AI, Data Engineering, AIOps" src="https://raw.githubusercontent.com/tahpnart8/tahpnart8/main/assets/banner-light.svg" width="100%">
 </picture>
 
 <br>
@@ -125,9 +125,9 @@ Full case studies with architecture diagrams and results live on **[tdpportfolio
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2B1B7C?style=flat-square&logo=pandas&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white)
-![Kafka](https://img.shields.io/badge/Redpanda_/_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Redpanda_/_Kafka-3D3D3D?style=flat-square&logo=apachekafka&logoColor=white)
 
 **Backend & Data Stores**
 
@@ -144,13 +144,13 @@ Full case studies with architecture diagrams and results live on **[tdpportfolio
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-24292F?style=flat-square&logo=vercel&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
@@ -163,7 +163,7 @@ Full case studies with architecture diagrams and results live on **[tdpportfolio
 
 <br>
 
-<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=tahpnart8&hide_border=true&background=00000000&stroke=8080804D&ring=16A34A&fire=16A34A&currStreakLabel=16A34A&sideLabels=808080&dates=80808099&currStreakNum=808080&sideNums=808080" height="165" />
+<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=tahpnart8&hide_border=true&background=00000000&stroke=808080&ring=16A34A&fire=16A34A&currStreakLabel=16A34A&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080" height="165" />
 
 </div>
 
